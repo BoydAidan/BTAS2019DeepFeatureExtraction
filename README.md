@@ -3,11 +3,11 @@ This repo contains the supplementary material for the 2019 BTAS submission Deep 
 
 Trained models can be found at the following links (GitHub has a 100Mb file size limit so I had to upload to Google Drive):
 
-Model trained from scratch using 363,512 iris images from 2000 classes: https://drive.google.com/drive/folders/1pwcoWG3jVcwNdufz_F-aot8gEIP1A6XB?usp=sharing
+Model trained from scratch using 363,512 iris images from 2000 classes: email aboyd3@nd.edu
 
-Model fine-tuned from ImageNet weights on same iris data as Scratch network: https://drive.google.com/drive/folders/15d8hx-SOPz8nWPTBeM928hUP1hhVQT5t?usp=sharing
+Model fine-tuned from ImageNet weights on same iris data as Scratch network: email aboyd3@nd.edu
 
-Model fine-tuned from VGGFace2 weights on same iris data as Scratch network: https://drive.google.com/drive/folders/1h8KS4PgUHXp2FJAcA_vGPFAGRlTqW1da?usp=sharing
+Model fine-tuned from VGGFace2 weights on same iris data as Scratch network: email aboyd3@nd.edu
 
 This project was written in Python. The code I used to split the CASIA-Iris-Thousand database (found here: http://biometrics.idealtest.org/dbDetailForUser.do?id=4) into the single 70% train/30% test split:
 
